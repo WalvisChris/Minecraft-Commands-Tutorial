@@ -1,13 +1,13 @@
 # Minecraft Commands Tutorial
 ## Index
-1. scoreboards  
+1. scoreboard  
 2. execute  
 
-## Scoreboards  
+## 1. Scoreboard  
 ```
 /scoreboard objectives add temp dummy
 ```
-## Execute  
+## 2. Execute  
 ```
 /execute as @p at @s run ...
 ```
